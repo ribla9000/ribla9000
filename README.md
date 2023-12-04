@@ -1,10 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Jean-Michel</h1>
-<h3 align="center">Lazyness, Impatience & Hubris.</h3>
+<h1 align="center">Hi 👋, I'm Roman-Ribla9000</h1>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,ktor,graphql,heroku,idea,spring,postgres,git,github,bash,docker,ts,android&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=python,pycharm,postgres,git,github,bash,docker,&perline=16" alt="Tech Stack" /> </p>
 
-- 🗣 Languages: [**Python** ❤️](https://kotlinlang.org/)
+- 🗣 Languages: [**Python** ❤️](https://python.org/)
 
 - ⚡️ I work mainly [for Tignum](https://github.com/TIGNUM) and on [**refreshVersions**](https://github.com/jmfayard/refreshVersions)
 
