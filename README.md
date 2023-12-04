@@ -1,8 +1,6 @@
 
-<h1 align="center">  I'm Roman-Ribla9000</h1>
-
-
-https://github.com/ribla9000/ribla9000/assets/105711689/5e341bc8-bdd5-454f-92ec-2131a4617165
+<h1 align="center"> ![giphy](https://github.com/ribla9000/ribla9000/assets/105711689/3d42a466-8b1f-4105-ba04-ef5c00f3e18f)
+ I'm Roman-Ribla9000</h1>
 
 
 <p align="left"><img src="https://skillicons.dev/icons?i=python,selenium,idea,postgres,redis,git,github,bash,docker,bots,linux&perline=16" alt="Tech Stack" /> </p>
