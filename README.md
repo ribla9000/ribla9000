@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Roman-Ribla9000</h1>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,pycharm,postgres,git,github,bash,docker,&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=python,idea,postgres,git,github,bash,docker,bots,linux&perline=16" alt="Tech Stack" /> </p>
 
 - 🗣 Languages: [**Python** ❤️](https://python.org/)
 
