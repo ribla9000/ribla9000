@@ -1,5 +1,6 @@
 
-<h1 align="center"> ![image](https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif) I'm Roman-Ribla9000</h1>
+<h1 align="center">  I'm Roman-Ribla9000</h1>
+![image](https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)
 
 <p align="left"><img src="https://skillicons.dev/icons?i=python,selenium,idea,postgres,redis,git,github,bash,docker,bots,linux&perline=16" alt="Tech Stack" /> </p>
 
