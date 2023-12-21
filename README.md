@@ -1,5 +1,5 @@
 
-<h1 align="center"> I'm Roman-Ribla9000!)</h1> 
+<h1 align="center"> Hi there!) They call me Roman-Ribla9000!</h1> 
 <p align="left"><img src="https://skillicons.dev/icons?i=python,selenium,idea,postgres,redis,git,github,bash,docker,bots,linux&perline=16" alt="Tech Stack" /> </p>
 
 - 🗣 Languages: [**Python** ❤️](https://python.org/)
