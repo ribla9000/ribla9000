@@ -7,3 +7,6 @@
 - ⚡️ I work mainly [CRM Telegram](https://github.com/ribla9000/SomePartOf-TG-bot)
 
 - 📦 My other **pet/test/in** process projects are in [My repository](https://github.com/ribla9000/?tab=repositories)
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ribla9000&theme=dark&background=000000)](https://git.io/streak-stats)
