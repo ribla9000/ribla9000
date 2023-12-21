@@ -8,6 +8,3 @@
 
 - 📦 My other **pet/test/in** process projects are in [My repository](https://github.com/ribla9000/?tab=repositories)
 - [a](https://github.com/ribla9000/ribla9000/assets/105711689/59820997-4891-48e1-9043-a4014f1e2a58)
-
-- ![image](https://github.com/ribla9000/ribla9000/assets/105711689/59820997-4891-48e1-9043-a4014f1e2a58)
-
