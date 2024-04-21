@@ -18,9 +18,9 @@
 
 - 🗣 Languages: [**Python** ❤️](https://python.org/)
 
-- ⚡️ I work mainly [CRM Telegram](https://github.com/ribla9000/SomePartOf-TG-bot)
+- ⚡️ I work mainly [CRM Telegram](https://github.com/ribla9000/SomePartOf-TG-bot),[HH-Parser for 1AK-Group](https://github.com/ribla9000/hh_parser)[]
 
-- 📦 My other **pet/test/in** process projects are in [My repository](https://github.com/ribla9000/?tab=repositories)
+- 📦 My other **pet/test/in-process** projects are in [My repository](https://github.com/ribla9000/?tab=repositories)
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=ribla9000&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribla9000&layout=compact&theme=ocean_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
