@@ -22,7 +22,6 @@
 
 - 📦 My other **pet/test/in-process** projects are in [My repository](https://github.com/ribla9000/?tab=repositories)
 
-- I don’t have many commits, because I work in a product company that has its own version control system 🫡.
   
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=ribla9000&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
